@@ -1,3 +1,3 @@
 <?php
-// PHP code goes here
+// PHP here
 ?>
