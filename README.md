@@ -1,0 +1,2 @@
+# simpati
+simpati kartu as
